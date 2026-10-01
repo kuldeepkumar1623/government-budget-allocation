@@ -1,0 +1,9 @@
+.venv/
+**/.venv/
+**/node_modules/
+**/dist/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/data/*
+!backend/data/sample_budget.csv
